@@ -1,0 +1,70 @@
+.row {
+    border: 3px blue solid;
+}
+
+.rowPadding {
+    padding: 2rem;
+}
+
+.title {
+    margin: 2rem;
+    text-align: center;
+}
+
+.text {
+    font-family: cursive;
+    margin: 2rem;
+}
+
+// MAIN BUTTON
+.btn {
+    margin: 2rem;
+    font-family: arial;
+    text-transform: uppercase;
+    font-size: 30px;
+    width: 240px;
+    height: 60px;
+    border-radius: 80px;
+    line-height: 60px;
+    text-align: center;
+    border: 3px solid #009688;
+    display: block;
+    text-decoration: none;
+    color: #009688;
+    position: relative;
+    /*overflow: hidden;*/
+    background: transparent;
+    transition: .3s;
+    :before {
+        content: '';
+        width: 100%;
+        height: 100%;
+        background: #009688;
+        opacity: .5;
+        top: 100;
+        left: 0;
+        z-index: -1;
+        transition: .3s;
+    }
+    :after {
+        content: '';
+        width: 100%;
+        height: 100%;
+        background: #009688;
+        top: 100;
+        left: 0;
+        z-index: -1;
+        transition: .3s;
+        transition-delay: .2s;
+    }
+    :hover {
+        color: #fff;
+    }
+    :hover:before {
+        top: 0;
+    }
+    :hover:after {
+        top: 0;
+    }
+}
+  
