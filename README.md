@@ -3,7 +3,7 @@
 ## ◾ Features
 
 <ul>
-  <li>Cookie Clicker is a mouse-clicking game playable on internet navigators.</li>
+  <li>Poo Clicker is a mouse-clicking game playable on internet navigators.</li>
 </ul>
 
 <hr>
