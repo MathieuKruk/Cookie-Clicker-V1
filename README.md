@@ -1,4 +1,4 @@
-# Cookie Clicker 🍪
+# 🍪 Cookie Clicker
 
 ## ◾ Features
 
