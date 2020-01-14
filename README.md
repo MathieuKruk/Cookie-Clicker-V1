@@ -144,8 +144,8 @@ Logs
 
 ## ◾ Code Example
 
+### Function that increment the score by one:
 ```
-//function that increment  the score by one
 function incrementOne(){
 		let score = parseInt(myStock.getItem("score"))
 		let valClick = parseInt(myStock.getItem("valClick"));
