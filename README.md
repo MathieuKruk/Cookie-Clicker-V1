@@ -154,10 +154,10 @@ function test() {
 
 ## ◾ Credits
 Team
-   - [Arturo](https://github.com/artedsolis)
-   - [Jeason](https://github.com/bleaz01)
-   - [Kiza](https://github.com/Kiza-coder)
-   - [Mathieu Kruk](https://github.com/MathieuKruk)
+   - 👨‍💻 [Arturo](https://github.com/artedsolis)
+   - 👨‍💻 [Jeason](https://github.com/bleaz01)
+   - 👨‍💻 [Kiza](https://github.com/Kiza-coder)
+   - 👨‍💻 [Mathieu Kruk](https://github.com/MathieuKruk)
 
 <hr>
 
