@@ -115,8 +115,6 @@ JavaScript.
 - [x] Work on the main project.
 - [x] Launch the website.
 
-ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
-
 <hr>
 
 ## ◾ Build status
